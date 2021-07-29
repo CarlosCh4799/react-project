@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "rating": "4",
+    "title": "El Mensaje de Pandora",
+    "image": "pandora.png"
+   },
+   {
+    "id": 2,
+    "rating": "5",
+    "title": "La Divina Comedia",
+    "image": "divina.jpg"
+   },
+   {
+    "id": 3,
+    "rating": "5",
+    "title": "El Arte de la Guerra",
+    "image": "guerra.jpg"
+   },
+   {
+    "id": 4,
+    "rating": "4",
+    "title": "Stop Over Thinking",
+    "image": "over thinking.jpg"
+   },
+   {
+    "id": 5,
+    "rating": "4",
+    "title": "The Shining",
+    "image": "shining.jpg"
+   },
+   {
+    "id": 6,
+    "rating": "4",
+    "title": "El Perfume",
+    "image": "perfume.jpg"
+   }
+]
